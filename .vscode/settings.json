@@ -4,6 +4,12 @@
     "FCFS.C": "cpp",
     "SJF.C": "cpp",
     "SRTF.C": "cpp",
-    "RR.C": "cpp"
+    "RR.C": "cpp",
+    "DiningPhil.C": "cpp",
+    "FirstFit.C": "cpp",
+    "BestFit.C": "cpp",
+    "BestFit copy.C": "cpp",
+    "WorstFit.C": "cpp",
+    "FCFSdisk.C": "cpp"
   }
 }
